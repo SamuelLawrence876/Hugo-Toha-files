@@ -40,3 +40,7 @@ skills:
 - name: Microsoft Office
   icon: "images/skills/office.jpg"
   summary: "Experience using a wide range of microsoft based tools ranging including microsoft word, excel, powerpoint."
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experience with pushing projects to production to Github"
