@@ -1,4 +1,4 @@
-baseURL: 'https://samuellawrence876.github.io/Hugo-toha-theme-deploy/'
+baseURL: '/'
 
 languageCode: en-us
 title: "Samuel Lawrence"
@@ -42,7 +42,7 @@ params:
     inverted: /assets/images/inverted-logo.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/SamuelLawrence876
+#  gitRepo: https://github.com/SamuelLawrence876
 
   # specify whether you want to write blog post or not
   enableBlogPost: false
