@@ -1,4 +1,5 @@
 baseURL: 'https://samuellawrence876.github.io/Hugo-toha-theme-deploy/'
+relativeurls: true
 
 languageCode: en-us
 title: "Samuel Lawrence"
