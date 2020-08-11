@@ -10,7 +10,7 @@ branches:
   - master
 deploy:
   local_dir: public
-  repo: al-haras/al-haras.github.io
+  repo: samuelLawrence876/Hugo-toha-theme-deploy
   target_branch: master
   provider: pages
   skip_cleanup: true
