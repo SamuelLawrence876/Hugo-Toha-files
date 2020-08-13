@@ -10,14 +10,14 @@ section:
 # Your achievements achievements
 achievements:
 - title: Wigton IPO
-  image: images/achievements/presenter.jpg
+  image: images/achievements/wind.jpg
   summary: Played an essnetial role in the deliverance of the Wigton IPO onto the Jamaica Stock Exchange.
-- title: Football
-  image: images/achievements/sport.jpg
-  summary: 2x defending champion of the inermural football league.
+- title: Charity
+  image: images/achievements/charity.png
+  summary: Every spring, the Delta Kappa Chapter sponsors a Miracle League San Diego baseball team. This past season, the Pikes cheered on the Rays at Little Padres Stadium in San Dieguito Park, Del Mar.
 - title: Graduation
   image: images/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Finance from San Diego State University.
 - title: President/Founder of the cooking club
-  image: images/achievements/woman-winner.jpg
-  summary: Started a cooking club with an initial member count of 100+
+  image: images/achievements/cooking.jpg
+  summary: Founded the cooking club at San Diego State University with an initial member count of 100+

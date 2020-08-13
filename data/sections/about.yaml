@@ -13,7 +13,11 @@ designation: Finance specialist | Data Scientist
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate Finance Specialist with 3 years of working experience. I have a completed a multitude of Data Science related projects with the use of python'
+summary: 'Samuel Lawrence is a Financial specialist who primarily operates within the Data Science/Risk realm, He has experience working with investment bank houses, big 4 audit firms as well as corporate relationship management teams. His self taught background in Data Science informs his mindful but competitive approach.
+Samuel Lawrence is fueled by his passion for understanding the nuances of capital market structures and ideal corporate efficiency. He considers himself a ‘forever student,’ eager to both build on his academic foundations in business management and stay in tune with the latest python based technologies through continued projects.
+His hunger for knowledge and determination to turn information into action has contributed to his most recent successes in successfully deploying multiple projects incorporating machine learning/deep learning based products.
+Samuel believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in football, painting, traveling, and cooking. Samuel is currently working as a Freelancer and is always interested
+in a challenge. Reach out to samue_lawrence@outlook.com to connect!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,23 +40,28 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: MS Office
+- name: Communication
   percentage: 95
   color: blue
-- name: Risk
-  percentage: 80
+
+- name: Team Oriented
+  percentage: 95
   color: yellow
-- name: Python
-  percentage: 83
+
+- name: Interpersonal Skills
+  percentage: 95
   color: pink
-- name: Modelling
-  percentage: 85
+
+- name: Creativity
+  percentage: 90
   color: green
-- name: Team Player
+
+- name: Leadership
   percentage: 90
   color: sky
-- name: Machine Learning
-  percentage: 85
+
+- name: Work Ethic
+  percentage: 90
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1

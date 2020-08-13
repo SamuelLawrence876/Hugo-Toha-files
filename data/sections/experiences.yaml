@@ -14,9 +14,9 @@ experiences:
     url: "https://www.vmbs.com/"
     location: London, UK
     # company overview
-    overview: Victoria Mutual is a widely recognized company for its loan based prodcuts within the property development sphere.
+    overview: Victoria Mutual is a widely recognized company for its loan based products within the property development sphere.
   positions:
-  - designation: Assitant Relationship Manager
+  - designation: Assistant Relationship Manager
     start: Jan 2020
     end: june 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -32,7 +32,7 @@ experiences:
     name: Mayberry Investments
     url: "https://www.mayberryinv.com/"
     location: Kingston, Jamaica
-    overview: Mayberry Investments is a fullservice investment house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
+    overview: Mayberry Investments is a full service investment bank house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
   positions:
   - designation: Management Trainee
     start: August 2018
@@ -60,7 +60,7 @@ experiences:
     name: BCW (Capital Hedge Fund)
     url: "http://icinsider.com/new-head-at-bcw-capital/"
     location: Kingston, Jamaica
-    overview: BCW capital is a hedge fund whose primary dealing invovled porfolio managemnt for high net worth clients. Since 2017 the team has since lquidated the fund  and have moved on to other ventures.
+    overview: BCW capital is a hedge fund whose primary dealing involved portfolio management for high net worth clients. Since 2017, the team has since liquidated the fund  and have moved on to other ventures.
   positions:
   - designation: Financial Analyst Intern
     start: Jun 2017
@@ -75,7 +75,7 @@ experiences:
     name: Mayberry Investments
     url: "https://www.mayberryinv.com/"
     location: Kingston, Jamaica
-    overview: Mayberry Investments is a fullservice investment house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
+    overview: Mayberry Investments is a full service investment house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
   positions:
   - designation: Data Analyst Intern
     start: August 2015

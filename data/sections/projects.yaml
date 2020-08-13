@@ -11,18 +11,17 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Other
-  filter: "other"
-- name: Natural Language Processing
-  filter: "NLP"
 - name: Machine-Learning
   filter: "machine-learning"
+- name: Natural Language Processing
+  filter: "NLP"
+- name: Other
+  filter: "other"
 
 # your projects
 projects:
-- name: Glassdoor Financial Analyst Salary Classifer
-  logo: images/projects/kubernetes.png
-  role: Developer
+- name: Glassdoor Financial Analyst Salary Classifier
+  role: Project Lead
   timeline: "April 2020"
   repo: https://github.com/SamuelLawrence876/Glassdoor_Salary_Predictor # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -30,26 +29,32 @@ projects:
   tags: ["professional", "machine-learning", "Web Scraper"]
 
 - name: Twitter Stock Sentiment Classifier
-  logo: images/projects/tensorflow.png
-  role: Developer
+  role: Project Lead
   timeline: "May 2020"
   repo: https://github.com/SamuelLawrence876/Twitter-Sentiment
   #url: ""
   summary: Using NLP models, we analysed the sentiment behind Tesla's Stock to determine what the market's opinion
   tags: ["machine-learning","NLP"]
 
-- name: Kaggle Fraud Detection Data Set
-  role: Developer
+- name: Kaggle - Fraud Detection Data Set
+  role: Project Lead
   timeline: "June 2020"
   repo: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
-  summary: Using Outlier based machine learning models, we created a model that would detect fraudlent transactions
+  summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
   tags: ["machine-learning"]
 
 - name: Kaggle - Analysing Berling AirBnB Rental
-  logo: images/projects/no-code.png
-  role: Developer
+  role: Project Lead
   timeline: "July 2020"
   repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
-  summary: Through Deep learning, we created a model that would perdict the price of AirBnB rentals within the Berlin area
+  summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
   tags: ["machine-learning"]
+
+- name: Hugo Site Deployment
+  role: Project Lead
+  timeline: "August 2020"
+  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  #url: ""
+  summary: Through the use of hugo's static site builder, deployed a portfolio website
+  tags: ["other"]

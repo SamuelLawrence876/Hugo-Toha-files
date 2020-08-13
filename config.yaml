@@ -66,7 +66,7 @@ params:
   author:
     name: "Samuel Lawrence"
     nickname: "Sam"
-    image: "images/sam.png"
+    image: "images/web.jpg"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "samuel_lawrence@outlook.com"
@@ -74,5 +74,5 @@ params:
     # a summary of what you do
     summary:
     - Welcome
-    - Let's build a sustainable future
-    - Get in touch
+    - Let's build
+    - Get in touch!
