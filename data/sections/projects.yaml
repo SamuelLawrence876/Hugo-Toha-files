@@ -17,6 +17,8 @@ buttons:
   filter: "NLP"
 - name: Other
   filter: "other"
+- name: Financial Modeling
+  filter: "Financial Modeling"
 
 # your projects
 projects:
@@ -41,7 +43,7 @@ projects:
   timeline: "June 2020"
   repo: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
   summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
-  tags: ["machine-learning"]
+  tags: ["machine-learning","Financial Modeling"]
 
 - name: Kaggle - Analysing Berling AirBnB Rental
   role: Project Lead
