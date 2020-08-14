@@ -33,7 +33,7 @@ projects:
 - name: Twitter Stock Sentiment Classifier
   role: Project Lead
   timeline: "May 2020"
-  repo: https://github.com/SamuelLawrence876/Twitter-Sentiment
+  url: https://github.com/SamuelLawrence876/Twitter-Sentiment
   #url: ""
   summary: Using NLP models, we analysed the sentiment behind Tesla's Stock to determine what the market's opinion
   tags: ["machine-learning","NLP"]
@@ -41,14 +41,14 @@ projects:
 - name: Kaggle - Fraud Detection Data Set
   role: Project Lead
   timeline: "June 2020"
-  repo: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
+  url: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
   summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
   tags: ["machine-learning","Financial Modeling"]
 
 - name: Kaggle - Analysing Berling AirBnB Rental
   role: Project Lead
   timeline: "July 2020"
-  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  url: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
   tags: ["machine-learning"]
@@ -56,7 +56,7 @@ projects:
 - name: Hugo Site Deployment
   role: Project Lead
   timeline: "August 2020"
-  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  url: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through the use of hugo's static site builder, deployed a portfolio website
   tags: ["other"]
