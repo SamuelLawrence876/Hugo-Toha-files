@@ -26,7 +26,6 @@ skills:
 - name: Tableau
   icon: "images/skills/tableau-logo-server-8-qualified.png"
   summary: "Experienced with Tableau at a basic level, Used for basic problem solving / data visualisation."
-  url: "https://prometheus.io/"
 
 - name: Bloomberg Terminal
   icon: "images/skills/bloom.png"
@@ -35,7 +34,6 @@ skills:
 - name: VBA MS - Excel
   icon: "images/skills/exl.png"
   summary: "Capable of developing/automating functions on ms excel through the use of Visual Basic 6 as well as through the use of macros."
-  url: "https://git-scm.com/"
 
 - name: Microsoft Office
   icon: "images/skills/office.png"
