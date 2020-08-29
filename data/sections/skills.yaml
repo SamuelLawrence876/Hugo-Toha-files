@@ -13,7 +13,7 @@ skills:
 - name: Python
   icon: "images/skills/python.jpg"
   summary: "Competent in the following Libraries: Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow, FastAI, PyTorch, TextBlob, Keras, Seaborn, WordCloud  "
-  url: "python.org"
+  #url: "python.org"
 
 - name: Financial Modeling
   icon: "images/skills/fin.png"

@@ -33,16 +33,16 @@ projects:
 - name: Twitter Stock Sentiment Classifier
   role: Project Lead
   timeline: "May 2020"
-  url: https://github.com/SamuelLawrence876/Twitter-Sentiment
-  summary: Using NLP models, we analysed the sentiment behind Tesla's Stock to determine what the market's opinion
+  url: https://twitter-sentiment-stocks.herokuapp.com/
+  summary: Using NLP modeling, deployed a sentiment Analyzer for tweeted stocks
   tags: ["machine-learning","NLP"]
 
-- name: Kaggle - Fraud Detection Data Set
-  role: Project Lead
-  timeline: "June 2020"
-  url: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
-  summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
-  tags: ["machine-learning","Financial Modeling"]
+#- name: Kaggle - Fraud Detection Data Set
+#  role: Project Lead
+#  timeline: "June 2020"
+#  url: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
+#  summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
+#  tags: ["machine-learning","Financial Modeling"]
 
 - name: Kaggle - Analysing Berling AirBnB Rental
   role: Project Lead
@@ -59,3 +59,19 @@ projects:
   #url: ""
   summary: Through the use of hugo's static site builder, deployed a portfolio website
   tags: ["other"]
+
+- name: Hotel Cancelation prediction - Kaggle
+  role: Project Lead
+  timeline: "August 2020"
+  url: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
+  #url: ""
+  summary: Investigated the effects of multicollinearity on data and built a model to counter the effects of it
+  tags: ["machine-learning"]
+
+#- name: Jamaica Stock Exchange LTSM prediction
+  #role: Project Lead
+  #timeline: "September 2020"
+  #url: https://github.com/SamuelLawrence876/Jamaica-Stock-Exchange---LTSM-deep-learning
+  #url: ""
+  #summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index
+  #tags: ["machine-learning","Financial Modeling"]
