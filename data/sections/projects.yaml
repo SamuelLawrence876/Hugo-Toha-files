@@ -47,7 +47,7 @@ projects:
 - name: Kaggle - Analysing Berling AirBnB Rental
   role: Project Lead
   timeline: "July 2020"
-  url: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
   tags: ["machine-learning"]
@@ -55,23 +55,23 @@ projects:
 - name: Hugo Site Deployment
   role: Project Lead
   timeline: "August 2020"
-  url: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through the use of hugo's static site builder, deployed a portfolio website
   tags: ["other"]
 
 - name: Hotel Cancelation prediction - Kaggle
-  role: Project Lead
+  repo: Project Lead
   timeline: "August 2020"
-  url: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
+  repo: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
   #url: ""
   summary: Investigated the effects of multicollinearity on data and built a model to counter the effects of it
   tags: ["machine-learning"]
 
 #- name: Jamaica Stock Exchange LTSM prediction
-  #role: Project Lead
-  #timeline: "September 2020"
-  #url: https://github.com/SamuelLawrence876/Jamaica-Stock-Exchange---LTSM-deep-learning
-  #url: ""
-  #summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index
-  #tags: ["machine-learning","Financial Modeling"]
+#  role: Project Lead
+#  timeline: "September 2020"
+#  url: https://jamaica-stock-exchange-lstm.herokuapp.com/
+#  #repo: ""
+#  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index
+#  tags: ["machine-learning","Financial Modeling"]
