@@ -16,7 +16,7 @@ buttons:
 - name: Natural Language Processing
   filter: "NLP"
 - name: Other
-  filter: "other"
+  filter: "Other"
 - name: Financial Modeling
   filter: "Financial Modeling"
 
