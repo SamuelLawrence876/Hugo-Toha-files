@@ -68,13 +68,13 @@ projects:
   summary: Investigated the effects of multicollinearity and built a model limiting its effect
   tags: ["Machine-Learning"]
 
-#- name: Jamaica Stock Exchange LTSM prediction
-#  role: Project Lead
-#  timeline: "September 2020"
-#  url: https://jamaica-stock-exchange-lstm.herokuapp.com/
-#  #repo: ""
-#  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index using
-#  tags: ["machine-learning","Financial Modeling"]
+- name: Jamaica Stock Exchange LTSM prediction
+  role: Project Lead
+  timeline: "September 2020"
+  url: https://jamaica-stock-exchange-lstm.herokuapp.com/
+  #repo: ""
+  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index using Jason Brownlee model
+  tags: ["machine-learning","Financial Modeling"]
 
 - name: Quantitative analysis of stocks from the JSE
   role: Project Lead
