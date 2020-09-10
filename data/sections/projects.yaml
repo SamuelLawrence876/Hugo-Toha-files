@@ -55,7 +55,7 @@ projects:
 - name: Hugo Site Deployment
   role: Project Lead
   timeline: "August 2020"
-  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+  repo: https://github.com/SamuelLawrence876/Hugo-Toha-files
   #url: ""
   summary: Through the use of hugo's static site builder, deployed a portfolio website
   tags: ["Other"]
@@ -82,4 +82,4 @@ projects:
   repo: https://github.com/SamuelLawrence876/Jamaica-stock-exchange-quantative-analysis/
   #repo: ""
   summary: With the use of the Financial Functions for Python module, modeled statistics from stock prices
-  tags: ["Machine-Learning","Financial Modeling"]
+  tags: ["Financial Modeling"]
