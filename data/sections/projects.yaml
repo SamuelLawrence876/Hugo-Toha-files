@@ -61,7 +61,7 @@ projects:
   tags: ["Other"]
 
 - name: Hotel Cancelation prediction - Kaggle
-  repo: Project Lead
+  role: Project Lead
   timeline: "August 2020"
   repo: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
   #url: ""
