@@ -12,7 +12,7 @@ buttons:
 - name: All
   filter: "all"
 - name: Machine-Learning
-  filter: "machine-learning"
+  filter: "Machine-Learning"
 - name: Natural Language Processing
   filter: "NLP"
 - name: Other
@@ -28,14 +28,14 @@ projects:
   url: https://glassdoor-fin-analyst.herokuapp.com/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Using a webscaper to collect glass door data, we build a machine learning model to classify salaries based on multiple parameters
-  tags: ["professional", "machine-learning", "Web Scraper"]
+  tags: ["professional", "Machine-Learning", "Web Scraper"]
 
 - name: Twitter Stock Sentiment Classifier
   role: Project Lead
   timeline: "May 2020"
   url: https://twitter-sentiment-stocks.herokuapp.com/
   summary: Using NLP modeling, deployed a sentiment Analyzer for tweeted stocks
-  tags: ["machine-learning","NLP"]
+  tags: ["Machine-Learning","NLP"]
 
 #- name: Kaggle - Fraud Detection Data Set
 #  role: Project Lead
@@ -50,7 +50,7 @@ projects:
   repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
-  tags: ["machine-learning"]
+  tags: ["Machine-Learning"]
 
 - name: Hugo Site Deployment
   role: Project Lead
@@ -58,7 +58,7 @@ projects:
   repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
   #url: ""
   summary: Through the use of hugo's static site builder, deployed a portfolio website
-  tags: ["other"]
+  tags: ["Other"]
 
 - name: Hotel Cancelation prediction - Kaggle
   repo: Project Lead
@@ -66,7 +66,7 @@ projects:
   repo: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
   #url: ""
   summary: Investigated the effects of multicollinearity on data and built a model to counter the effects of it
-  tags: ["machine-learning"]
+  tags: ["Machine-Learning"]
 
 #- name: Jamaica Stock Exchange LTSM prediction
 #  role: Project Lead
@@ -75,3 +75,11 @@ projects:
 #  #repo: ""
 #  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index
 #  tags: ["machine-learning","Financial Modeling"]
+
+- name: Quantitative analysis of stocks from the JSE
+  role: Project Lead
+  timeline: "September 2020"
+  url: https://github.com/SamuelLawrence876/Jamaica-stock-exchange-quantative-analysis/
+  #repo: ""
+  summary: With the use of the Financial Functions for Python module, modeled statistics from stock prices
+  tags: ["Machine-Learning","Financial Modeling"]
