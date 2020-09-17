@@ -22,6 +22,21 @@ buttons:
 
 # your projects
 projects:
+- name: Quantitative Analysis Of Stocks From The JSE
+  role: Project Lead
+  timeline: "September 2020"
+  url: https://jse-dashboard.herokuapp.com/
+  #repo: ""
+  summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
+  tags: ["Financial Modeling"]
+
+- name: Twitter Stock Sentiment Analysis
+  role: Project Lead
+  timeline: "May 2020"
+  url: https://twitter-sentiment-stocks.herokuapp.com/
+  summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data
+  tags: ["Machine-Learning","NLP"]
+
 - name: Glassdoor Financial Analyst Salary Classifier
   role: Project Lead
   timeline: "April 2020"
@@ -30,12 +45,7 @@ projects:
   summary: Using a webscaper to collect glassdoor data, we built a machine learning model to classify salaries based on multiple parameters and deployed to production
   tags: ["professional", "Machine-Learning", "Web Scraper"]
 
-- name: Twitter Stock Sentiment Classifier
-  role: Project Lead
-  timeline: "May 2020"
-  url: https://twitter-sentiment-stocks.herokuapp.com/
-  summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data
-  tags: ["Machine-Learning","NLP"]
+
 
 #- name: Kaggle - Fraud Detection Data Set
 #  role: Project Lead
@@ -68,18 +78,11 @@ projects:
   summary: Investigated the effects of multicollinearity and built a model limiting its effect
   tags: ["Machine-Learning"]
 
-- name: Jamaica Stock Exchange LTSM prediction
-  role: Project Lead
-  timeline: "September 2020"
-  url: https://jamaica-stock-exchange-lstm.herokuapp.com/
-  #repo: ""
-  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index using Jason Brownlee model
-  tags: ["machine-learning","Financial Modeling"]
+#- name: Jamaica Stock Exchange LTSM prediction
+#  role: Project Lead
+#  timeline: "September 2020"
+#  url: https://jamaica-stock-exchange-lstm.herokuapp.com/
+#  #repo: ""
+#  summary: With the use of deeplearning technology, built a mode to predict the movement of the Jamaica Stock Exchange Index using Jason Brownlee model
+#  tags: ["machine-learning","Financial Modeling"]
 
-- name: Quantitative analysis of stocks from the JSE
-  role: Project Lead
-  timeline: "September 2020"
-  url: https://jse-dashboard.herokuapp.com/
-  #repo: ""
-  summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
-  tags: ["Financial Modeling"]
