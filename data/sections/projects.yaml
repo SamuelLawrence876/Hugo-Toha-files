@@ -79,7 +79,7 @@ projects:
 - name: Quantitative analysis of stocks from the JSE
   role: Project Lead
   timeline: "September 2020"
-  repo: https://github.com/SamuelLawrence876/Jamaica-stock-exchange-quantative-analysis/
+  url: https://jse-dashboard.herokuapp.com/
   #repo: ""
-  summary: With the use of the Financial Functions for Python module, modeled statistics from stock prices
+  summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
   tags: ["Financial Modeling"]
