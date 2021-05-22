@@ -6,9 +6,27 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
+###################
 
 # Your experiences
 experiences:
+- company:
+    name: Teacherbooker
+    url: "https://www.teacherbooker.com/"
+    location: London, UK
+    # company overview
+    overview: Teacher Booker is an online network built for teaching and support staff.
+  positions:
+  - designation: QA Engineer
+    start: Oct 2020
+#    end: Present
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    responsibilities:
+    - Designed and implemented automated testing tools and programs addressing areas including database impacts, software scenarios, regression testing, negative testing, error/bug retests and usability.
+    - Documented test defects and procedures to enable accurate replication and ensure compliance with standards. Accelerated average QA testing turn-around time by 25% or more, allowing company to accept more testing projects without increasing staff.
+    - Responsible for creating automation test scenarios using the Gherkin reference, executing tests on cypress for different browsers, and investigating why the execution failed with the automation dev/QA.
+
 - company:
     name: Victoria Mutual
     url: "https://www.vmbs.com/"

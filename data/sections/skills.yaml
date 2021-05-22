@@ -35,10 +35,18 @@ skills:
   icon: "images/skills/exl.png"
   summary: "Capable of developing/automating functions on ms excel through the use of Visual Basic 6 as well as through the use of macros."
 
-- name: Microsoft Office
-  icon: "images/skills/office.png"
-  summary: "Experience using a wide range of microsoft based tools  including Microsoft Word, Excel and Powerpoint."
+#- name: React
+#  icon: "images/skills/office.png"
+#  summary: "Experience using a wide range of microsoft based tools  including Microsoft Word, Excel and Powerpoint."
 
 - name: Git
   icon: "images/skills/git.png"
   summary: "Experience with pushing projects to production via Github"
+
+#- name: Javascript
+#  icon: "images/skills/git.png"
+#  summary: "Experience with pushing projects to production via Github"
+
+#- name: TypeScript
+#  icon: "images/skills/git.png"
+#  summary: "Experience with pushing projects to production via Github"
