@@ -59,7 +59,7 @@ skills:
     summary: "Experience in working with the react framework"
     url: "https://reactjs.org/"
 
-  - name: Cypress / Gherkin
+  - name: Cypress/Gherkin
     icon: "images/skills/cypress.png"
     summary: "Experience with working with cypress framework in conjunction with gherkin"
     url: "https://www.cypress.io/"
