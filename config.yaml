@@ -1,4 +1,4 @@
-baseURL: 'https://samuellawrence876.github.io/Hugo-toha-theme-deploy/'
+baseURL: "https://samuellawrence876.github.io/Hugo-toha-theme-deploy/"
 relativeurls: true
 
 languageCode: en-us
@@ -27,7 +27,7 @@ enableEmoji: true
 # Custom parameters
 params:
   # Copyright Notice
-  copyright: © 2020 Copyright.
+  copyright: © 2021 Copyright.
 
   # Meta description for your site.  This will help the search engines to find your site.
   description: Portfolio and personal blog of Samuel Lawrence.
@@ -43,7 +43,7 @@ params:
     inverted: /assets/images/inverted-logo.png
 
   # GitHub repo URL of your site
-#  gitRepo: https://github.com/SamuelLawrence876
+  #  gitRepo: https://github.com/SamuelLawrence876
 
   # specify whether you want to write blog post or not
   enableBlogPost: false
@@ -54,8 +54,8 @@ params:
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
   customMenus:
-#  - name: Notes
-#    url: https://hossainnotes.netlify.app/docs/example/
+  #  - name: Notes
+  #    url: https://hossainnotes.netlify.app/docs/example/
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
@@ -73,6 +73,6 @@ params:
       phone: "+44 7960 759450"
     # a summary of what you do
     summary:
-    - Welcome
-    - Let's build
-    - Get in touch!
+      - Welcome
+      - Let's build
+      - Get in touch!

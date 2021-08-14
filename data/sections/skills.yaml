@@ -10,35 +10,61 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python
-  icon: "images/skills/python.jpg"
-  summary: "Competent in the following Libraries: Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow, FastAI, PyTorch, TextBlob, Keras, Seaborn, WordCloud  "
-  #url: "python.org"
+  - name: Python
+    icon: "images/skills/python.jpg"
+    summary: "Competent in the following Libraries: Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow, FastAI, PyTorch, TextBlob, Keras, Seaborn, WordCloud "
+    url: "python.org"
 
-- name: Financial Modeling
-  icon: "images/skills/fin.png"
-  summary: "Competent in financial modeling using: DCF analysis, Black Scholes Modeling, Debt Structuring, Risk Mitigation"
+  - name: Financial Modeling
+    icon: "images/skills/fin.png"
+    summary: "Competent in financial modeling using: DCF analysis, Black Scholes Modeling, Debt Structuring, Risk Mitigation"
 
-- name: SQL
-  icon: "images/skills/SQL.png"
-  summary: "Know basic SQL programming, used for database communication."
+  - name: SQL
+    icon: "images/skills/SQL.png"
+    summary: "Know basic SQL programming, used for database communication."
+    url: "https://www.mysql.com/"
 
-- name: Tableau
-  icon: "images/skills/tableau-logo-server-8-qualified.png"
-  summary: "Experienced with Tableau at a basic level, Used for basic problem solving / data visualisation."
+  - name: Tableau
+    icon: "images/skills/tableau-logo-server-8-qualified.png"
+    summary: "Experienced with Tableau at a basic level, Used for basic problem solving / data visualisation."
+    url: "https://www.tableau.com/"
 
-- name: Bloomberg Terminal
-  icon: "images/skills/bloom.png"
-  summary: "Adept at extracting precise financial information for analytics via bloomberg terminal."
+  - name: Bloomberg Terminal
+    icon: "images/skills/bloom.png"
+    summary: "Adept at extracting precise financial information for analytics via bloomberg terminal."
+    url: "https://www.bloomberg.com/"
 
-- name: VBA MS - Excel
-  icon: "images/skills/exl.png"
-  summary: "Capable of developing/automating functions on ms excel through the use of Visual Basic 6 as well as through the use of macros."
+  - name: VBA MS - Excel
+    icon: "images/skills/exl.png"
+    summary: "Capable of developing/automating functions on ms excel through the use of Visual Basic 6 as well as through the use of macros."
+    url: "https://docs.microsoft.com/en-us/office/vba/api/overview/excel"
 
-- name: Microsoft Office
-  icon: "images/skills/office.png"
-  summary: "Experience using a wide range of microsoft based tools  including Microsoft Word, Excel and Powerpoint."
+  - name: Microsoft Office
+    icon: "images/skills/office.png"
+    summary: "Experience using a wide range of microsoft based tools  including Microsoft Word, Excel and Powerpoint."
+    url: "https://www.microsoft.com/en-gb/microsoft-365/microsoft-office?rtc=1"
 
-- name: Git
-  icon: "images/skills/git.png"
-  summary: "Experience with pushing projects to production via Github"
+  - name: Git
+    icon: "images/skills/git.png"
+    summary: "Experience with pushing projects to production via Github"
+    url: "https://git-scm.com/doc"
+
+  - name: Javascript
+    icon: "images/skills/javascript.png"
+    summary: "Experience with working with javascript in a production environment"
+    url: "https://www.javascript.com/"
+
+  - name: React
+    icon: "images/skills/react.png"
+    summary: "Experience in working with the react framework"
+    url: "https://reactjs.org/"
+
+  - name: Cypress / Gherkin
+    icon: "images/skills/cypress.png"
+    summary: "Experience with working with cypress framework in conjunction with gherkin"
+    url: "https://www.cypress.io/"
+
+  - name: Postgres
+    icon: "images/skills/cloud.png"
+    summary: "Experience working with postgres relational database management system"
+    url: "https://www.postgresql.org/"

@@ -9,75 +9,72 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Machine-Learning
-  filter: "Machine-Learning"
-- name: Natural Language Processing
-  filter: "NLP"
-- name: Other
-  filter: "Other"
-- name: Financial Modeling
-  filter: "Financial Modeling"
+  - name: All
+    filter: "all"
+  - name: Machine-Learning
+    filter: "Machine-Learning"
+  - name: Natural Language Processing
+    filter: "NLP"
+  - name: Other
+    filter: "Other"
+  - name: Financial Modeling
+    filter: "Financial Modeling"
 
 # your projects
 projects:
-- name: Quantitative Analysis Of Stocks From The JSE
-  role: Project Lead
-  timeline: "September 2020"
-  url: https://jse-dashboard.herokuapp.com/
-  #repo: ""
-  summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
-  tags: ["Financial Modeling"]
+  - name: Quantitative Analysis Of Stocks From The JSE
+    role: Project Lead
+    timeline: "September 2020"
+    url: https://jse-dashboard.herokuapp.com/
+    #repo: ""
+    summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
+    tags: ["Financial Modeling"]
 
-- name: Twitter Stock Sentiment Analysis
-  role: Project Lead
-  timeline: "May 2020"
-  url: https://twitter-sentiment-stocks.herokuapp.com/
-  summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data
-  tags: ["Machine-Learning","NLP"]
+  - name: Twitter Stock Sentiment Analysis
+    role: Project Lead
+    timeline: "May 2020"
+    url: https://twitter-sentiment-stocks.herokuapp.com/
+    summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data
+    tags: ["Machine-Learning", "NLP"]
 
-- name: Glassdoor Financial Analyst Salary Classifier
-  role: Project Lead
-  timeline: "April 2020"
-  url: https://glassdoor-fin-analyst.herokuapp.com/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Using a webscaper to collect glassdoor data, we built a machine learning model to classify salaries based on multiple parameters and deployed to production
-  tags: ["professional", "Machine-Learning", "Web Scraper"]
+  - name: Glassdoor Financial Analyst Salary Classifier
+    role: Project Lead
+    timeline: "April 2020"
+    url: https://glassdoor-fin-analyst.herokuapp.com/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Using a webscaper to collect glassdoor data, we built a machine learning model to classify salaries based on multiple parameters and deployed to production
+    tags: ["professional", "Machine-Learning", "Web Scraper"]
 
+  #- name: Kaggle - Fraud Detection Data Set
+  #  role: Project Lead
+  #  timeline: "June 2020"
+  #  url: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
+  #  summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
+  #  tags: ["machine-learning","Financial Modeling"]
 
+  - name: Kaggle - Analysing Berling AirBnB Rental
+    role: Project Lead
+    timeline: "July 2020"
+    repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
+    #url: ""
+    summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
+    tags: ["Machine-Learning"]
 
-#- name: Kaggle - Fraud Detection Data Set
-#  role: Project Lead
-#  timeline: "June 2020"
-#  url: https://github.com/SamuelLawrence876/Kaggle-fraud-detection-data-set
-#  summary: Using Outlier based machine learning models, we created a model that would detect fraudulent transactions
-#  tags: ["machine-learning","Financial Modeling"]
+  - name: Personal Website Deployment
+    role: Project Lead
+    timeline: "August 2020"
+    repo: https://github.com/SamuelLawrence876/Hugo-Toha-files
+    #url: ""
+    summary: Through the use of hugo's static site builder, deployed a portfolio website
+    tags: ["Other"]
 
-- name: Kaggle - Analysing Berling AirBnB Rental
-  role: Project Lead
-  timeline: "July 2020"
-  repo: https://github.com/SamuelLawrence876/Analysing-Berling-AirBnB-Rental
-  #url: ""
-  summary: Through Deep learning, we created a model that would predict the price of AirBnB rentals within the Berlin area
-  tags: ["Machine-Learning"]
-
-- name: Hugo Site Deployment
-  role: Project Lead
-  timeline: "August 2020"
-  repo: https://github.com/SamuelLawrence876/Hugo-Toha-files
-  #url: ""
-  summary: Through the use of hugo's static site builder, deployed a portfolio website
-  tags: ["Other"]
-
-- name: Hotel Cancelation prediction - Kaggle
-  role: Project Lead
-  timeline: "August 2020"
-  repo: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
-  #url: ""
-  summary: Investigated the effects of multicollinearity and built a model limiting its effect
-  tags: ["Machine-Learning"]
-
+  - name: Hotel Cancelation prediction - Kaggle
+    role: Project Lead
+    timeline: "August 2020"
+    repo: https://github.com/SamuelLawrence876/Hotel-Cancelation-and-the-effects-of-multicollinearity
+    #url: ""
+    summary: Investigated the effects of multicollinearity and built a model limiting its effect
+    tags: ["Machine-Learning"]
 #- name: Jamaica Stock Exchange LTSM prediction
 #  role: Project Lead
 #  timeline: "September 2020"

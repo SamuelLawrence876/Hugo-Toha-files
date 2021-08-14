@@ -6,17 +6,17 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Finance specialist | Data Scientist
+designation: Finance specialist | Software developer
 # your company information
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Samuel Lawrence is a Financial specialist who primarily operates within the Data Science/Risk realm, He has experience working with investment bank houses, big 4 audit firms as well as corporate relationship management teams. His self taught background in Data Science informs his mindful but competitive approach.
+summary: 'Samuel Lawrence is a Financial specialist who primarily operates within the Software Developer/Financial Analysis realm, He has experience working with investment bank houses, big 4 audit firms, corporate relationship management teams as well as technology based startups. His self taught background in Data Science/Software development informs his mindful but competitive approach.
 Samuel Lawrence is fueled by his passion for understanding the nuances of capital market structures and ideal corporate efficiency. He considers himself a ‘forever student,’ eager to both build on his academic foundations in business management and stay in tune with the latest python based technologies through continued projects.
-His hunger for knowledge and determination to turn information into action has contributed to his most recent successes in successfully deploying multiple projects incorporating machine learning/deep learning based products.
-Samuel believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in football, painting, traveling, and cooking. Samuel is currently working as a Freelancer and is always interested
+His hunger for knowledge and determination to turn information into action has contributed to his most recent successes in successfully deploying multiple machine learning/deep learning based products.
+Samuel believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in football, painting, traveling, and cooking. Samuel is currently working as a QA Software Engineer at Teacherbooker and is always interested
 in a challenge. Reach out to samue_lawrence@outlook.com to connect!'
 
 # your social links
@@ -40,7 +40,7 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Communication
+- name: Programming skills
   percentage: 95
   color: blue
 
