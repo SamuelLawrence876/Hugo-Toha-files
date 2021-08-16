@@ -50,17 +50,17 @@ skills:
     url: "https://git-scm.com/doc"
 
   - name: Javascript
-    icon: "images/skills/javascript.png"
+    # icon: "images/skills/js.png"
     summary: "Experience with working with javascript in a production environment"
     url: "https://www.javascript.com/"
 
   - name: React
-    icon: "images/skills/react.png"
+    # icon: "images/skills/react.png"
     summary: "Experience in working with the react framework"
     url: "https://reactjs.org/"
 
-  - name: Cypress/Gherkin
-    icon: "images/skills/cypress.png"
+  - name: Cypress/Cucumber
+    # icon: "images/skills/cypress.png"
     summary: "Experience with working with cypress framework in conjunction with gherkin"
     url: "https://www.cypress.io/"
 
