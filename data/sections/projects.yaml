@@ -42,7 +42,7 @@ projects:
     timeline: "April 2020"
     url: https://glassdoor-fin-analyst.herokuapp.com/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
     #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-    summary: Using a webscaper to collect glassdoor data, we built a machine learning model to classify salaries based on multiple parameters and deployed to production
+    summary: Using a web-scraper to collect Glassdoor data, we built a machine learning model to classify salaries based on multiple parameters and deployed to production
     tags: ["professional", "Machine Learning", "Web Scraper"]
 
   #- name: Kaggle - Fraud Detection Data Set
