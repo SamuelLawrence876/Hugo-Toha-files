@@ -27,14 +27,14 @@ projects:
     timeline: "September 2020"
     url: https://jse-dashboard.herokuapp.com/
     #repo: ""
-    summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange
+    summary: With the use of the Financial Functions for Python module, productionised a model to analyse stocks on the Jamaica Stock Exchange - currently depreciated due to JSE api constant changes
     tags: ["Financial Modeling"]
 
   - name: Twitter Stock Sentiment Analysis
     role: Project Lead
     timeline: "May 2020"
     url: https://twitter-sentiment-stocks.herokuapp.com/
-    summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data
+    summary: Using NLP technology, deployed a website that analyzes the sentiment of stock market data - currently depreciated due to twitter api constant changes
     tags: ["Machine Learning", "NLP"]
 
   - name: Glassdoor Financial Analyst Salary Classifier
@@ -66,6 +66,14 @@ projects:
     repo: https://github.com/SamuelLawrence876/Hugo-Toha-files
     #url: ""
     summary: Deployed a portfolio website
+    tags: ["Web Development"]
+
+  - name: DMPS mining
+    role: Project Lead
+    timeline: "March 2022"
+    repo: http://www.dmpsmining.com/
+    #url: ""
+    summary: DMPS mining is a CRM cryptocurrency based cloud hosting service where customers are able to purchase miners to be hosted and additionally have the option to sell the generated income as a product through the platform.
     tags: ["Web Development"]
 
   - name: Hotel Cancellation prediction - Kaggle
