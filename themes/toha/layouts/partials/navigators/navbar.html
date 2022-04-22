@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-xl top-navbar initial-navbar" id="top-navbar">
   <div class="container">
-    {{ $mainLogo:="/assets/images/main-logo.png" }}
-    {{ $invertedLogo:="/assets/images/inverted-logo.png" }}
+    {{ $mainLogo:="/assets/images/rocket.png" }}
+    {{ $invertedLogo:="/assets/images/rocket.png" }}
     {{ if .Site.Params.logo.main }}
       {{ $mainLogo = .Site.Params.logo.main }}
     {{ end }}
@@ -59,6 +59,6 @@
     </div>
   </div>
   <!-- Store the logo information in a hidden img for the JS -->
-  <img src="{{ $mainLogo }}" class="d-none" id="main-logo">
-  <img src="{{ $invertedLogo }}" class="d-none" id="inverted-logo">
+  <img src="{{ $mainLogo }}" class="d-none" id="rocket">
+  <img src="{{ $invertedLogo }}" class="d-none" id="rocket">
 </nav>

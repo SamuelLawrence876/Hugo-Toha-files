@@ -40,7 +40,7 @@ git init
 git submodule add https://github.com/hossainemruz/toha.git themes/toha
 ```
 
->Don't use SSH URL of the theme during adding as git sub-module. Also, don't clone the theme in your `themes` directory using `git clone`. They don't work well with Github Action or Netlify.
+> Don't use SSH URL of the theme during adding as git sub-module. Also, don't clone the theme in your `themes` directory using `git clone`. They don't work well with Github Action or Netlify.
 
 If you want to customize the theme templates, then fork it and use the fork as your theme.
 
@@ -88,8 +88,8 @@ params:
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will be default to the theme logos if not provided.
   logo:
-    main: /assets/images/main-logo.png
-    inverted: /assets/images/inverted-logo.png
+    main: /assets/images/rocket.png
+    inverted: /assets/images/rocket.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/hossainemruz/toha-example-site
@@ -103,8 +103,8 @@ params:
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
   customMenus:
-  - name: Notes
-    url: https://hossainnotes.netlify.app/docs/example/
+    - name: Notes
+      url: https://hossainnotes.netlify.app/docs/example/
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
@@ -122,9 +122,9 @@ params:
       phone: "+0123456789"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+      - I am a Developer
+      - I work with Go
+      - I love to work with some fun projects
 ```
 
 You can just copy the content for `config.yaml` files from `theme/toha/exampleSite/config.yaml`.
@@ -157,12 +157,14 @@ Here, are the current plan and progress of various components of this theme. The
 ### Sections
 
 - [x] **Home**
+
   - [x] Configurable Background
   - [x] Author Image
   - [x] Greeting
   - [x] Typing Carousel
 
 - [x] **About**
+
   - [x] Name and Designation
   - [x] Summary
     - [x] Markdown Support
@@ -172,16 +174,19 @@ Here, are the current plan and progress of various components of this theme. The
   - [x] Soft Skills Indicator
 
 - [x] **Skills**
+
   - [x] Skill Cards
   - [x] Markdown Support
 
 - [x] **Experiences**
+
   - [x] Designation
   - [x] Timeline
   - [x] Company Overview
   - [x] Responsibilities
 
 - [ ] **Projects**
+
   - [x] Category Filter
   - [ ] Project Card
     - [x] Overview
@@ -193,6 +198,7 @@ Here, are the current plan and progress of various components of this theme. The
 - [x] **Recent Posts**
 
 - [ ] **Publications**
+
   - [ ] Category Filter
   - [ ] Card
   - [ ] Abstract
@@ -202,6 +208,7 @@ Here, are the current plan and progress of various components of this theme. The
   - [ ] Gallery
 
 - [ ] **Accomplishment / Courses**
+
   - [ ] Overview
   - [ ] Certificate
 
@@ -249,7 +256,7 @@ Pull requests are most welcomed and I will be happy to review. Just follow the f
 - Use as little dependency as possible.
 - Have patient.
 
->I am not a web developer. I just created this theme for my personal needs. So, it is reasonable to have some flaws in the codes. Feel free to open issues and PR acknowledging the problems.
+> I am not a web developer. I just created this theme for my personal needs. So, it is reasonable to have some flaws in the codes. Feel free to open issues and PR acknowledging the problems.
 
 ## Attribution
 
